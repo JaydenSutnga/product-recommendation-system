@@ -54,4 +54,4 @@ Returns the 10 products most similar to product at index 20 (`Sicons Conditionin
 
 ## Author
 
-[Your name] — MSc Statistics, IIT Kanpur
+[Jayden Mander Wankhar Sutnga] — MSc Statistics and Data Science, IIT Kanpur
